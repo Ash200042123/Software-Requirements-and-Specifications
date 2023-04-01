@@ -1,0 +1,29 @@
+user signup ---1 day
+user login ---1 day
+shop signup ---1 day
+shop add product ---3 day
+user order--- 5 day
+user search--- 3 day
+user profile update --- 1 day
+prepay --- 2 day
+update products --- 1 day
+check order status --- 2 day
+
+total-20
+
+
+
+user signup ---2 day
+user login ---1 day
+shop signup ---1 day
+shop add product ---3 day
+user order--- 5 day
+user search--- 3 day
+user profile update --- 1 day
+prepay --- 5 day
+update products --- 1 day
+check order status --- 3 day
+
+
+
+
